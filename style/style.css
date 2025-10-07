@@ -1,0 +1,13 @@
+html{
+    font-size: 62.5%;
+    font-family: Apercue;
+}
+@font-face {
+    font-family:inter ;
+    src: url(../assests/fonts/Inter-Italic-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family:Apercue;
+    src: url(../assests/fonts/apercu_bold_italic_pro.otf);
+}
