@@ -17,10 +17,6 @@ html{
     src: url(../assests/fonts/futurak.ttf);
 }
 
-/* @font-face {
-    font-family:Apercue;
-    src: url(../assests/fonts/apercu_bold_italic_pro.otf);
-} */
  body {
   font-family: inter;
 }
