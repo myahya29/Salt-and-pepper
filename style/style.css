@@ -184,3 +184,24 @@ nav > button {
 }
 
 /* Village Franchise Ended */
+/* Footer Started */
+.para5{
+padding-bottom: 24px;
+  padding-right: 0px;
+  text-align: left;
+  font-family: 'Apercu';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.7);
+  width: 370px;
+}  
+.margin-left{
+    margin-left: 40px;
+}
+footer  a{
+    text-decoration: none;
+}
+/* Footer Ended */

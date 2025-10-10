@@ -1,4 +1,4 @@
-html{
+/* html{
     font-size: 62.5%;
     font-family: Apercue;
 }
@@ -22,7 +22,7 @@ html{
 }
 
 /* navbar started */
-.main-logo {
+/* .main-logo {
   width: 165px;
 }
 nav > a {
@@ -44,10 +44,10 @@ nav > button {
   background-color: var(--red);
   color: var(--white);
   padding: 15px 20px;
-  border-radius: 30px;
+  border-radius: 30px; */
   
 }
-/* navbar ended */
+/* navbar ended */ */
 #Introduction{
   text-align: center;
   margin: 70px;
